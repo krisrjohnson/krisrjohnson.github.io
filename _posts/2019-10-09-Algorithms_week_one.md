@@ -76,7 +76,7 @@ If _p_ is low, there won't be many open sites so likelihood of percolation is lo
 1. Social Network connectivity
 Given n members and log file containing m timestamps when friendships formed, design an algo to determine earliet time at which all members are connected, aka every member is a friend of a friend etc. Running time should be m log n or better.
 
-A: create separate list initialized as i = id[i], with length N. For every union, pop the id from the list for the smaller tree. When len(list)==1, everyone's connected.
+A: Create separate list initialized as i = id[i], with length N. For every union, pop the id from the list for the smaller tree. When len(list)==1, everyone's connected.
 
 2. Union-find, add a find() method so find(i) returns largest element in connected components containing i. E.g. find({1,2,6,9}) returns 9.
 
