@@ -96,6 +96,12 @@ d = p._asdict() #returns ordered dict
 Point(**d) #converts dict to namedtuple
 p._replace(x=100)
 ```
+## String Formatting
+I've certainly been indoctrinated on f-strings for their enhanced readability and flow since everything's in order versus haivng a bunch of empty brackets strewn throughout. However, the following string list creation is certainly easier the semi-old way of `.format()`: 
+```python
+url = 'https://picsum.photos/id/{}/200/300'
+args = [(n, url.format(n)) for n in range(20)]
+```
 
 
 # Syntactic Sugar
