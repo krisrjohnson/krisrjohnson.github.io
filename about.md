@@ -10,7 +10,9 @@ I am currently specializing in Deep Learning and Artificial Intelligence as appl
 
 
 # Work Life
-Currently applying Deep Learning models to VFX for a small production studio. Segmentation, style transfer, facial recognition, facial puppetry, whatever else could concievably use. Since the beginning of 2019 I've been working on Deep Learning with some Computer Vision thrown in! Through my past life as a data miner for comScore, I cultivated a hybrid skillset of data science and data engineering, a self dubbed __Data Mercenary__!
+Applying Deep Learning models to VFX for a small production studio. Segmentation, style transfer, facial recognition, facial puppetry, and any other concievable use cases. Hi From The Future implemented Neural Style Transfer in the music video for Earth Gang's [Up](https://www.youtube.com/watch?v=HOO5UIMzgIU)
+
+Since the beginning of 2019 I've been working on Deep Learning and Computer Vision! Through my past life as a data miner for comScore, I cultivated a hybrid skillset of data science and data engineering, a self dubbed __Data Mercenary__!
 
 # CV
 Link to [pdf](https://www.dropbox.com/s/gflfjczbkspssae/KJ_CV_email_only.pdf?dl=0)
